@@ -13,7 +13,7 @@ Oxygen-OSS (Oxygen Open Source Software) is an Organization that provides users 
 
 ## Licenses
 
-- Oxygen Public License 1.0
+- Oxygen Public License 1.0, read it [here.](https://github.com/oxygen-OSS/license-oxygenoss/blob/main/OPL-1.0)
 
 ## ✅ We thrive to protect
 - **User privacy** - by creating Software that is Open Source, banning "Black Box Software")
